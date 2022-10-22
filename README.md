@@ -1,6 +1,6 @@
 <h1>First Sequelize Project</h1>
 
-<h1>Libs</h1>
+<h3>Libs</h3>
 <ul>
     <li>Sequelize</li>
     <li>Express</li>
